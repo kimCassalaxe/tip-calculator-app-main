@@ -91,15 +91,6 @@ h2{
   color: hsl(183, 100%, 15%);
 }
 
-/*input:{
-  border:sienna solid 10px;
-  background-color: lawngreen;
-  
-}*/
-input:hover{
-  
-
-}
 button:hover{
   cursor: pointer;
   background-color:hsl(185, 41%, 84%);
