@@ -96,14 +96,15 @@ button:hover{
   background-color:hsl(185, 41%, 84%);
   color: hsl(183, 100%, 15%);
 }
+.attribution{
+  display: none;
+}
 @media (min-width:375px) {
   .card{
     width: 700px;
-  
   }
   #l-box{
     margin: 2em 0px 1px 0px;
-    
   }
   #inputs{
     width: 50%;
